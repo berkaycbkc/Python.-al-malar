@@ -10,3 +10,4 @@ print("size corba olarak",a)
 print("size yemek olarak",b)
 print("yanınada içecek olarak",c)
 print("afiyetolsun")
+e
