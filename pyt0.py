@@ -1,5 +1,5 @@
 import random
-print("                                   YEMEK LİSTESİ")
+print ("===========YEMEK LİSTESİ============")
 corba=['mercimek','tarhana','ezogelin']
 yemek=['pilav','lahmacun','tavuk pılav']
 ıcecek=['kola','gazos','soda']
@@ -10,4 +10,3 @@ print("size corba olarak",a)
 print("size yemek olarak",b)
 print("yanınada içecek olarak",c)
 print("afiyetolsun")
-e
