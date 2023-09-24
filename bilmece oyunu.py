@@ -26,4 +26,4 @@ if a2==c2:
    print("bunu bilemezsin sanmıştım ama yanılmışım")
 
 else:
-   print("bilemedin salak")
+   print("bilemedin tekrar dene...")
