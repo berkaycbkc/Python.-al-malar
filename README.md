@@ -1,4 +1,2 @@
 # cbkc.denm
-spocjccvncıjhncfdıjkh ncvjkvjnbnv jvnbgf
-gfvblfbfıfgjfgıvkgfofıgjfvıfvf
-fbgfbjgjgjbıg
+
