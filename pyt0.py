@@ -3,7 +3,7 @@ print ("===========YEMEK LİSTESİ============")
 corba=['mercimek','tarhana','ezogelin']
 yemek=['pilav','lahmacun','tavuk pılav']
 ıcecek=['kola','gazos','soda']
-a= random.choice(corba)
+a= (random.choice(corba))
 b=(random.choice(yemek))
 c=(random.choice(ıcecek))
 print("size corba olarak",a)
