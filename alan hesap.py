@@ -18,7 +18,7 @@ def çevrehesap():
     yarıcap= xx.get()
     yarıcap=int(yarıcap)
     cevre = 2*math.pi*yarıcap
-    yazı ="dairenin çevresi ="+str(cevre)+"cm."
+    yazı ="Dairenin Çevresi ="+str(cevre)+"cm."
     cbk6.config(text=yazı)
 
 bck=Label(text="Dairenin yarıçapı:",padx=45,pady=0)
