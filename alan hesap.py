@@ -21,7 +21,7 @@ def çevrehesap():
     yazı ="Dairenin Çevresi ="+str(cevre)+"cm."
     cbk6.config(text=yazı)
 
-bck=Label(text="Dairenin yarıçapı:",padx=45,pady=0)
+bck=Label(text="Dairenin YarıÇapı:",padx=45,pady=0)
 bck.place(x=10,y=30)
 xx = Entry()
 xx.place(x=160,y=30)
